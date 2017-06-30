@@ -15,7 +15,7 @@ export default class About extends Component {
     			
   			</Timeline>
 			<Card title="个人介绍" bordered={false} style={{ width: 350 }}>
-		      <p>王豪亮／1991年9月／ 天枰座;</p>
+		      <p>彬go／1989年9月／ 天枰座;</p>
 		      <p>爱好: 旅行、足球、健身、看书、篮球;</p>
 		      <p>梦想: 行万里路，在世界所有角落留下自己足迹，未来若有机会(40岁以后)每年从事一项自己从未涉足过得职业，体验360行的付出与收获。</p>
 		    </Card>
