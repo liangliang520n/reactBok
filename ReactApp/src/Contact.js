@@ -11,25 +11,25 @@ const dataArray = [
     icon: 'question-circle-o',
     color: '#FF5500',
     title: 'This is MyPhone',
-    text: '13523638972',
+    text: '135*********',
   },
   {
     icon: 'plus-circle-o',
     color: '#5FC296',
     title: 'Where is MyEmail',
-    text: '3140744818@qq.com',
+    text: '31*********@126.com',
   },
   {
     icon: 'check-circle-o',
     color: '#2DB7F5',
     title: 'Here is MyAddress',
-    text: '河南  洛阳  伊川县  高山镇',
+    text: '河南  郑州 ',
   },
   {
     icon: 'cross-circle-o',
     color: '#FFAA00',
     title: 'The Data is:',
-    text: '2017年06月21日',
+    text: '2017年06月10日',
   },
 ];
 
