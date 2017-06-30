@@ -1,0 +1,49 @@
+@import '~antd/dist/antd.css';
+
+
+.resume .ant-card{
+	background: rgba(255,255,255,.3);
+	color: #FFFFFF;
+	margin: 10px 10px;
+}
+.resume .ant-card .ant-card-head{
+	background: rgba(255,255,255,.3);
+}
+.resume .ant-card .ant-card-head h3{
+	color: #FFFFFF;	
+}
+.resume .ant-card:nth-of-type(2n){
+	float: right;
+}
+body:hover .resume .ant-card:nth-of-type(2n){
+	transform: translateX(-30px);
+}
+body:hover .resume .ant-card:nth-of-type(2n+1){
+	transform: translateX(30px);
+}
+
+
+.skills h2{
+	width: 100%;
+	margin: 20px 0 15px 0;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 30px;
+}
+.skillOne{
+	width: 315px;
+	padding: 0 15px;
+	float: left;
+}
+.skillOne h3{
+	color: #ff0;
+	width: 100%;
+	font-size: 20px;
+	margin: 20px 0 10px 0;
+}
+.skillOne p{
+	color: #FFFFFF;
+	padding: 5px 0;
+	margin-bottom: 10px;
+	font-size: 14px;
+}
